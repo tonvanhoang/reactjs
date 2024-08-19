@@ -1,0 +1,34 @@
+[{
+  "_id": {
+    "$oid": "66ac4762d994fb0ae08769c3"
+  },
+  "date": "02-08-2024",
+  "address": "123",
+  "status": "đã hủy hàng",
+  "name": "mới",
+  "phonenumber": 123,
+  "id_account": "6661192e056c245599fd23e1",
+  "id_product": [
+    "66ac42d5d994fb0ae08768fa",
+    "66ac430ed994fb0ae0876900",
+    "66ac430ed994fb0ae0876900"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ac476bd994fb0ae08769ca"
+  },
+  "date": "02-08-2024",
+  "address": "123",
+  "status": "đã nhận được hàng",
+  "name": "mới",
+  "phonenumber": 123,
+  "id_account": "6661192e056c245599fd23e1",
+  "id_product": [
+    "66ac42d5d994fb0ae08768fa",
+    "66ac430ed994fb0ae0876900",
+    "66ac430ed994fb0ae0876900"
+  ],
+  "__v": 0
+}]

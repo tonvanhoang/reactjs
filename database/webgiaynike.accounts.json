@@ -1,0 +1,33 @@
+[{
+  "_id": {
+    "$oid": "663f38690cdc536c7ae88b1d"
+  },
+  "name": "Tôn Văn Hoàng",
+  "role": "admin",
+  "password": "$2b$10$l39iQ8SrrV9/C2q9Lvbf4ep2zwwFzVlQ3Ge9Xz5.U4uaCdj4Kv/Im",
+  "email": "admin@gmail.com",
+  "avata": "https://inkythuatso.com/uploads/thumbnails/800/2023/03/9-anh-dai-dien-trang-inkythuatso-03-15-27-03.jpg"
+},
+{
+  "_id": {
+    "$oid": "6661192e056c245599fd23e1"
+  },
+  "name": "user123",
+  "role": "user",
+  "password": "$2b$10$8uCbSEN0R6VzVwSZNfGQaODatfQTs3yRZbzXBx4Y8ZlviDl2ZwFpm",
+  "email": "user@gmail.com",
+  "avata": "https://cdn.thoitiet247.edu.vn/wp-content/uploads/2024/05/anh-songoku-4k-1.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66aba90a33648032c4518e2a"
+  },
+  "name": "hoang",
+  "role": "user",
+  "password": "$2b$10$1sywsk4/8eQ8pxYsblqF5uHXMNiJA9BYJMKc/ZiSgLQQI7LwlM2Oy",
+  "email": "hoangtvps31421@fpt.edu.vn",
+  "phoneNumber": 336418214,
+  "avata": "https://inkythuatso.com/uploads/thumbnails/800/2023/03/9-anh-dai-dien-trang-inkythuatso-03-15-27-03.jpg",
+  "__v": 0
+}]

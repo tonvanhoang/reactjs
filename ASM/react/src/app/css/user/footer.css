@@ -1,0 +1,39 @@
+footer{
+    width: 100%;
+    background-color: black;
+}
+/* footer .row .col-3{
+    border: 1px solid red;
+} */
+footer .row .col-3 p{
+    font-size: 14px;
+    color: white;
+    margin-bottom: 3px;
+    font-weight: bold;
+}
+footer .row .col-3 a{
+    display: block;
+    text-decoration: none;
+    color: gray;
+    font-size: 14px;
+    margin-top: 5px;
+    transition: all 0.5s;
+}
+footer .row .col-3 a:hover{
+    color: white;
+}
+footer .row .col-3 i{
+    font-size: 28px;
+    color: gray;
+    margin-left: 15px;
+    float: right;
+    transition: all 0.7s;
+}
+footer .row .col-3 i:hover{
+    color: white;
+    cursor: pointer;
+}
+footer .ft-bottom span{
+    color: gray;
+    font-size: 14px;
+}

@@ -1,0 +1,76 @@
+.container-top{
+    height: 70px;
+}
+.container-top .div-h4{
+    width: 23%;
+    height: 100%;
+    background-color: yellow;
+}
+.container-top .div-h4 h4{
+   width: 100%;
+   text-align: center;
+   font-weight: bold;
+}
+.container-top .div-input{
+    width: 60%;
+    margin: auto;
+}
+.container-top .div-input .container-input{
+    width: 65%;
+}
+.container-top .div-input .container-account{
+    width: 27%;
+}
+
+.container-top .div-input .input-group input,.container-top .div-input .input-group button{
+    height: 40px;
+}
+.container-top .div-input .input-group button{
+    width: 100px;
+}
+.container-top .div-input .img{
+    width: 50px;
+    height: 50px;
+}
+.container-top .div-input .img img{
+    width: 100%;
+    height: 100%;
+}
+/* bottom */
+.container-bottom-left{
+    width: 23%;
+    height: 100vh;
+    background-color: #333;
+}
+.container-bottom-right{
+    width: 77%;
+    height: 100vh;
+}
+.container-bottom-right .content-con{
+    width: 90%;
+    margin: 50px auto;
+    border: 1px solid #d2d2d2;
+    height: 85vh;
+}
+.container-bottom-left .ul-admin{
+    margin-top: 25px;
+}
+.container-bottom-left .ul-admin li{
+    list-style: none;
+    padding: 7px 0px;
+    transition: all 0.5s;
+}
+.container-bottom-left .ul-admin li:hover{
+    background-color: #d2d2d2;
+    cursor: pointer;
+}
+.container-bottom-left .ul-admin li a{
+    text-decoration: none;
+    color: #d2d2d2;
+    font-size: 16px;
+    margin-left: 50px;
+}
+.container-bottom-left .ul-admin li:hover a{
+    color: black;
+    font-weight: 500;
+}

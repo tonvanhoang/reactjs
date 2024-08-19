@@ -1,0 +1,71 @@
+.container-payment{
+    width: 70%;
+}
+.container-payment h4{
+    font-size: 28px;
+    margin-bottom: 30px;
+}
+.container-payment .btnsaveaddress button{
+    width: 200px;
+}
+.container-payment .btnsaveaddress button a{
+    color: black;
+    font-size: 16px;
+    transition: all 0.7s;
+}
+.container-payment .btnsaveaddress button:hover a{
+    color: white;
+}
+.chia2ben{
+    display: flex;
+    justify-content: space-between;
+}
+.container-payment .payment-right{
+    max-height: 70vh;
+}
+.container-payment .payment-right .payment-right-top a{
+    color: gray;
+    font-size: 16px;
+    font-weight: 400;
+}
+.gach-payment::after,.gach-payment::before{
+    content: '';
+    width: 100%;
+    height: 1px;
+    background-color: gray;
+    display: block;
+}
+/*  payment-right-bottom*/
+
+.container-payment .payment-right .payment-right-bottom .img{
+    width: 50%;
+    height: 20vh;
+}
+.container-payment .payment-right .payment-right-bottom .img img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.container-payment .payment-right .payment-right-bottom .product{
+    width: 50%;
+    padding-left: 7px;
+    padding-top: 7px;
+}
+.container-payment .payment-right .payment-right-bottom .product a{
+    display: block;
+    text-decoration: none;
+    color: gray;
+    font-size: 14px;
+    margin-bottom: 3px;
+}
+.container-payment .payment-right .btn-pay button{
+    width: 130px;
+}
+.container-payment .payment-right .btn-pay button a{
+    color: black;
+    font-size: 16px;
+    transition: all 0.7s;
+}
+.container-payment .payment-right .btn-pay button:hover a{
+    color: white;
+}

@@ -1,0 +1,89 @@
+/* global */
+.chiacontainer{
+    padding: 0px;
+    margin: 0px;
+    margin: auto
+}
+/* trending */
+#trending_HT .row .col-6 .img{
+    height: 80vh;
+    position: relative;
+}
+#trending_HT .row .col-6 .img img{
+    width: 100%;
+    object-fit: cover;
+    background-position: center;
+    height: 100%;
+}
+#trending_HT .row .col-6 .img .child-btn-trending{
+    position: absolute;
+    top: 80%;
+    left: 30%;
+    transform: translate(-50%,-50%);
+}
+#trending_HT .row .col-6 .img .child-btn-trending p{
+    font-size:24px;
+    width: 100%;
+}
+#trending_HT .row .col-6 .img button{
+    border: none;
+    width: 80px;
+    border-radius: 30px;
+    transition: all 0.5s;
+}
+#trending_HT .row .col-6 .img button:hover{
+    background-color: gray;
+}
+#trending_HT .row .col-6 .img button a{
+    font-size: 16px;
+}
+/* donts miss */
+#dont-miss .img{
+    width: 100%;
+    height: 100vh;
+}
+#dont-miss .img img{
+    width: 100%;
+    object-fit: cover;
+    background-position: center;
+    height: 100%;
+}
+/* classics sportlight */
+#classics #classics-spotlight .item{
+    position: relative;
+}
+#classics #classics-spotlight .item a{
+    position: absolute;
+    top: 90%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    color: black;
+    font-size: 24px;
+    text-decoration: none;
+    transition: all 0.7s;
+}
+#classics #classics-spotlight .item a:hover{
+    color: gray;
+}
+/* shopbysport */
+#shop #shopbysport .item img{
+   width: 100%;
+   height: 40vh;
+   object-fit: cover;
+}
+#shop #shopbysport .item a{
+    font-size: 20px;
+    text-decoration: none;
+    transition: all 0.7s;
+    color: black;
+}
+#shop #shopbysport .item .thea_shop::after{
+    content: '';
+    width: 8%;
+    height: 2px;
+    background-color: black;
+    display: block;
+}
+#shop #shopbysport .item a:hover{
+    color: gray;
+}

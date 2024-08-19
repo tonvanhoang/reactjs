@@ -1,0 +1,100 @@
+[{
+  "_id": {
+    "$oid": "66ac4762d994fb0ae08769c5"
+  },
+  "product": [
+    {
+      "id_product": {
+        "$oid": "66ac42d5d994fb0ae08768fa"
+      },
+      "setQuantity": 13,
+      "setsize": "35",
+      "img": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/08a0c44f-a3f8-4d14-96f5-d475d62e1b29/p-6000-shoes-QcQbpx.png",
+      "price": 200,
+      "name": "Nike zenvy 2",
+      "_id": {
+        "$oid": "66ac4762d994fb0ae08769c6"
+      }
+    },
+    {
+      "id_product": {
+        "$oid": "66ac430ed994fb0ae0876900"
+      },
+      "setQuantity": 3,
+      "setsize": "40",
+      "img": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/08a0c44f-a3f8-4d14-96f5-d475d62e1b29/p-6000-shoes-QcQbpx.png",
+      "price": 500,
+      "name": "Nike zenvy F9",
+      "_id": {
+        "$oid": "66ac4762d994fb0ae08769c7"
+      }
+    },
+    {
+      "id_product": {
+        "$oid": "66ac430ed994fb0ae0876900"
+      },
+      "setQuantity": 1,
+      "setsize": "39",
+      "img": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/08a0c44f-a3f8-4d14-96f5-d475d62e1b29/p-6000-shoes-QcQbpx.png",
+      "price": 500,
+      "name": "Nike zenvy F9",
+      "_id": {
+        "$oid": "66ac4762d994fb0ae08769c8"
+      }
+    }
+  ],
+  "idOrder": {
+    "$oid": "66ac4762d994fb0ae08769c3"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ac476bd994fb0ae08769cc"
+  },
+  "product": [
+    {
+      "id_product": {
+        "$oid": "66ac42d5d994fb0ae08768fa"
+      },
+      "setQuantity": 13,
+      "setsize": "35",
+      "img": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/08a0c44f-a3f8-4d14-96f5-d475d62e1b29/p-6000-shoes-QcQbpx.png",
+      "price": 200,
+      "name": "Nike zenvy 2",
+      "_id": {
+        "$oid": "66ac476bd994fb0ae08769cd"
+      }
+    },
+    {
+      "id_product": {
+        "$oid": "66ac430ed994fb0ae0876900"
+      },
+      "setQuantity": 3,
+      "setsize": "40",
+      "img": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/08a0c44f-a3f8-4d14-96f5-d475d62e1b29/p-6000-shoes-QcQbpx.png",
+      "price": 500,
+      "name": "Nike zenvy F9",
+      "_id": {
+        "$oid": "66ac476bd994fb0ae08769ce"
+      }
+    },
+    {
+      "id_product": {
+        "$oid": "66ac430ed994fb0ae0876900"
+      },
+      "setQuantity": 1,
+      "setsize": "39",
+      "img": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/08a0c44f-a3f8-4d14-96f5-d475d62e1b29/p-6000-shoes-QcQbpx.png",
+      "price": 500,
+      "name": "Nike zenvy F9",
+      "_id": {
+        "$oid": "66ac476bd994fb0ae08769cf"
+      }
+    }
+  ],
+  "idOrder": {
+    "$oid": "66ac476bd994fb0ae08769ca"
+  },
+  "__v": 0
+}]

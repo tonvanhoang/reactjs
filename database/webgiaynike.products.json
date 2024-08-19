@@ -1,0 +1,142 @@
+[{
+  "_id": {
+    "$oid": "66ac42a2d994fb0ae08768f2"
+  },
+  "name": "Nike zenvy 1",
+  "price": 400,
+  "quantity": 1000,
+  "img": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/08a0c44f-a3f8-4d14-96f5-d475d62e1b29/p-6000-shoes-QcQbpx.png",
+  "short_description": "oke",
+  "description": "sản phẩm oke",
+  "id_cate": {
+    "$oid": "665bf23f614e0b9614bba540"
+  },
+  "size": [
+    "33",
+    "34",
+    "35",
+    "36",
+    "37",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ac42d5d994fb0ae08768fa"
+  },
+  "name": "Nike zenvy 2",
+  "price": 200,
+  "quantity": 1000,
+  "img": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/08a0c44f-a3f8-4d14-96f5-d475d62e1b29/p-6000-shoes-QcQbpx.png",
+  "short_description": "10đ",
+  "description": "sản phẩm tốt",
+  "id_cate": {
+    "$oid": "665bf23f614e0b9614bba540"
+  },
+  "size": [
+    "35",
+    "36",
+    "37",
+    "38",
+    "39",
+    "40"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ac430ed994fb0ae0876900"
+  },
+  "name": "Nike zenvy F9",
+  "price": 500,
+  "quantity": 1000,
+  "img": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/08a0c44f-a3f8-4d14-96f5-d475d62e1b29/p-6000-shoes-QcQbpx.png",
+  "short_description": "123",
+  "description": "12345678",
+  "id_cate": {
+    "$oid": "665bf23f614e0b9614bba540"
+  },
+  "size": [
+    "35",
+    "36",
+    "37",
+    "38",
+    "39",
+    "40"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ac436bd994fb0ae0876906"
+  },
+  "name": "Nike sport",
+  "price": 1000,
+  "quantity": 10,
+  "img": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/08a0c44f-a3f8-4d14-96f5-d475d62e1b29/p-6000-shoes-QcQbpx.png",
+  "short_description": "123",
+  "description": "123",
+  "id_cate": {
+    "$oid": "663f37260cdc536c7ae88b14"
+  },
+  "size": [
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL",
+    "XXXL"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ac43a5d994fb0ae087690c"
+  },
+  "name": "Nike F5",
+  "price": 330,
+  "quantity": 100,
+  "img": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/08a0c44f-a3f8-4d14-96f5-d475d62e1b29/p-6000-shoes-QcQbpx.png",
+  "short_description": "123",
+  "description": "123",
+  "id_cate": {
+    "$oid": "665eeac28b5f80fffdd5ff08"
+  },
+  "size": [
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL",
+    "XXXL"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ac43d5d994fb0ae0876912"
+  },
+  "name": "Nike zenvy 7",
+  "price": 100,
+  "quantity": 1000,
+  "img": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/08a0c44f-a3f8-4d14-96f5-d475d62e1b29/p-6000-shoes-QcQbpx.png",
+  "short_description": "123",
+  "description": "123",
+  "id_cate": {
+    "$oid": "665eeac28b5f80fffdd5ff08"
+  },
+  "size": [
+    "30",
+    "31",
+    "32",
+    "33",
+    "34",
+    "35"
+  ],
+  "__v": 0
+}]

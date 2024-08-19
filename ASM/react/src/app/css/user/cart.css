@@ -1,0 +1,53 @@
+.cart{
+    width: 80%;
+}
+.cart h4{
+    font-size: 28px;
+}
+.cart .table tr th{
+    text-align: center;
+}
+.cart .table tr td{
+    width: 300px;
+    text-align: center;
+}
+.cart .pro-info{
+    display: flex;
+}
+.cart .img{
+    width: 200px;
+    height:100px;
+}
+.cart .img img{
+    width: 100%;
+    height: 100%;
+}
+.cart .table tr td .tenpro{
+    font-size: 16px;
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+}
+.cart .table tr td i{
+    font-size: 14px;
+}
+.cart .table tr .tdtongtien{
+    width: 100%;
+    border: 1px solid black;
+}
+.cart .table tr .btntongtien {
+    text-align: right; /* Align the content to the right */
+}
+
+.cart .table tr .btntongtien button {
+    transition: all 0.7s;
+    margin-left: 10px; /* Adjust the spacing between buttons if needed */
+}
+.cart .table tr .btntongtien button a{
+    color: black;
+    font-weight: 400;
+    text-decoration: none;
+}
+.cart .table tr .btntongtien button:hover a{
+    color: white;
+}

@@ -1,0 +1,118 @@
+.detailproduct{
+    width: 70%;
+}
+.detailproduct .row .col-6 .img{
+    width: 100%;
+    height: 80vh;
+}
+.detailproduct .row .col-6 .img img{
+    width: 100%;
+    height: 100%;
+    background-position: center;
+}
+/* right */
+.detailproduct .consanpham{
+    width: 90%;
+}
+.detailproduct .row .col6-right{
+    border: 1px solid whitesmoke;
+}
+.detailproduct .row .col-6 .theatensp{
+    display: block;
+    color: black;
+    font-size: 20px;
+    text-decoration: none;
+    font-weight: bold;
+    transition: all 0.8s;
+}
+.detailproduct .row .col-6 .theatensp:hover{
+    color: red;
+}
+.detailproduct .row .col-6 .lb{
+    display: block;
+    font-weight: 500;
+    margin: 7px 0px;
+}
+.detailproduct .row .col-6 i{
+    font-size: 14px;
+    font-weight: 400;
+}
+.detailproduct .row .col-6  .thespan_price{
+    color: red;
+    font-size: 16px;
+}
+.detailproduct .row .col-6  del{
+    color: gray;
+}
+.detailproduct .row .col-6 .lb .thespan_p{
+    font-weight: 400;
+    font-size: 14px;
+    letter-spacing: 1px;
+}
+.detailproduct .row .col-6 .consanpham .modal .modal-dialog .modal-dialog{
+    width: 2500px;
+    background-color: white;
+}
+.detailproduct .row .col-6 .size button,.detailproduct .row .col-6 .color button {
+    margin-bottom: 5px;
+    margin-left: 3px;
+    padding: 3px 10px;
+    transition: all 0.5s;
+}
+.detailproduct .row .col-6 .size button a,.detailproduct .row .col-6 .color button a{
+    text-decoration: none;
+    color: black;
+    font-size: 14px;
+    transition: all 0.5s;
+}
+.detailproduct .row .col-6 .size button:hover a,.detailproduct .row .col-6 .color button:hover a{
+    color: red;
+}
+.detailproduct .row .col-6 .btn-addtocart{
+    width: 50%;
+    margin: auto;
+    text-align: center;
+    margin-top: 20px;
+}
+.detailproduct .row .col-6 .btn-addtocart button{
+    transition: all 2s;
+    width: 200px;
+}
+.detailproduct .row .col-6 .btn-addtocart button a{
+    color: black; 
+    text-decoration: none;
+    font-weight: bold;
+    transition: all 0.5s;
+}
+.detailproduct .row .col-6 .btn-addtocart button:hover a{
+    color: white;
+}
+/* sản phẩm tương tự */
+#Similar-Product .item a{
+    color: grey;
+    text-decoration: none;
+    width: 94%;
+    display: block;
+    transition: all 0.7s;
+    margin: auto;
+}
+#Similar-Product .item a:hover{
+    color: red;
+}
+/* container-comment */
+.container-comment h4{
+    font-size: 28px;
+}
+.container-comment .btn-comment button{
+    transition: all 1s;
+    width: 120px;
+    margin-right: 20px;
+}
+.container-comment .btn-comment button a{
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+}
+.container-comment .btn-comment button:hover a{
+    color: white;
+}

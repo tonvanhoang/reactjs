@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "663f37260cdc536c7ae88b14"
+  },
+  "name": "Shirt"
+},
+{
+  "_id": {
+    "$oid": "665bf23f614e0b9614bba540"
+  },
+  "name": "Shoe",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665eea9e8b5f80fffdd5ff03"
+  },
+  "name": " Sandal",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665eeac28b5f80fffdd5ff08"
+  },
+  "name": " Trousers",
+  "__v": 0
+}]
